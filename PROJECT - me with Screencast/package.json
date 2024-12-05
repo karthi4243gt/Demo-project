@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "An email service with Jest tests",
+  "main": "EmailService.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mocha": "^11.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
